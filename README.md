@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Nishanth-Ganiga
-- 👀 I’m interested in coding
-- 🌱 I’m currently pursuing MCA
+5-star coder | Master of codecraft. Proficient in Python, JavaScript, Java, C++, and more. Expert in web development, machine learning, and cybersecurity. Passionate about solving complex problems and building elegant solutions. Let's collaborate and craft remarkable software together
 
-<!---
-Nishanth-Ganiga/Nishanth-Ganiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://gnishanth.000webhostapp.com/
